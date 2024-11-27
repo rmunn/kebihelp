@@ -7,9 +7,9 @@ Kebihelp is an universal key-bindings helper for Linux, written in Python and in
 Click on the picture to zoom.
 
 In this demo:
-- <F1> displays the helper
-- <TAB> key is used to cycle through the tabs.
-- <ESC> or <q> is used to close it
+- `<F1>` displays the helper
+- `<TAB>` key is used to cycle through the tabs.
+- `<ESC>` or `<q>` is used to close it
 
 ## Features
 
